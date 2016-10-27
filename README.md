@@ -1,2 +1,2 @@
 # my_git_practice
-Test repository
+ぎっとのおべんきょう。←masterで書き換えた
